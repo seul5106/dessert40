@@ -1,0 +1,90 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 50
+    },
+    "auditLog": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\.e147b2a4165daaa6f4a49a7d5c1598251373c9dd-audit.json",
+    "files": [
+        {
+            "date": 1644977125520,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220216.log",
+            "hash": "122842db3764bbd7522439ff08d842bb"
+        },
+        {
+            "date": 1645777868515,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220225.log",
+            "hash": "22cd21945b15635c1730fec311d885f3"
+        },
+        {
+            "date": 1645847017145,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220226.log",
+            "hash": "e1aa672a2cae7c5e96e1e665e329dc0f"
+        },
+        {
+            "date": 1646844603762,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220310.log",
+            "hash": "9a4e56aed2150b7ebc0ef4c3ebc93006"
+        },
+        {
+            "date": 1647430076344,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220316.log",
+            "hash": "e4ce38270a3d92efbf3658c472f53a36"
+        },
+        {
+            "date": 1647826681610,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220321.log",
+            "hash": "dad1fe27264145b0aa15e06ab56b5df4"
+        },
+        {
+            "date": 1647917520634,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220322.log",
+            "hash": "da375f1eed0bbffab60114c79fabdee1"
+        },
+        {
+            "date": 1648105373924,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220324.log",
+            "hash": "07d6da1dde6ebd78978b7a7545820fcf"
+        },
+        {
+            "date": 1648266191631,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220326.log",
+            "hash": "f796405fa80d7151daea5e91fbd60575"
+        },
+        {
+            "date": 1648441504431,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220328.log",
+            "hash": "d47ae503b690f07889b260eb75e8e428"
+        },
+        {
+            "date": 1648613689958,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220330.log",
+            "hash": "7498dff8172ae00b3bc61bb41b25bbcf"
+        },
+        {
+            "date": 1649038307348,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220404.log",
+            "hash": "4fb452c45ce90662d38a4046ffb337f0"
+        },
+        {
+            "date": 1649213598026,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220406.log",
+            "hash": "e5bc094bd625957b087b78b3352c0f75"
+        },
+        {
+            "date": 1649299811186,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220407.log",
+            "hash": "42a9428a0a708e4027161830ac8d8dd2"
+        },
+        {
+            "date": 1649730809758,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220412.log",
+            "hash": "f531326deaddbcc91e925e7c11c2c29f"
+        },
+        {
+            "date": 1649844863766,
+            "name": "C:\\Users\\seul5\\ezen_project\\backend\\_files\\_logs\\log_220413.log",
+            "hash": "ac0acd397338af464a3d66f86fb8246a"
+        }
+    ],
+    "hashType": "md5"
+}
